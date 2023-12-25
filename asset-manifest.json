@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dth-project/static/css/main.653e72ab.css",
+    "main.js": "/dth-project/static/js/main.74a09c38.js",
+    "static/js/787.d4aba7ab.chunk.js": "/dth-project/static/js/787.d4aba7ab.chunk.js",
+    "static/media/background.png": "/dth-project/static/media/background.0405ef1518e59918c192.png",
+    "index.html": "/dth-project/index.html",
+    "main.653e72ab.css.map": "/dth-project/static/css/main.653e72ab.css.map",
+    "main.74a09c38.js.map": "/dth-project/static/js/main.74a09c38.js.map",
+    "787.d4aba7ab.chunk.js.map": "/dth-project/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.653e72ab.css",
+    "static/js/main.74a09c38.js"
+  ]
+}
